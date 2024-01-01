@@ -51,6 +51,8 @@
     <img src="https://github.com/KM-drago/KM-drago/assets/62215420/d73da2e9-41e4-4c79-93a0-79c1551f7d7b" alt="mysql" width="40" height="40"/>
      <!-- MongoDB -->
     <img src="https://github.com/KM-drago/KM-drago/assets/62215420/bc3f0754-fc99-499e-8abf-4059a4dea6bc" alt="mongodb" width="40" height="40"/>
+    <!-- PrismaORM -->
+    <img src="https://github.com/KM-drago/KM-drago/assets/62215420/e2072b4e-e263-47a2-b7a2-dd29ce7c0830" alt="prismaorm" width="40" height="40"/>
 </p>
 
 
