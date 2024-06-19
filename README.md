@@ -19,6 +19,8 @@
     <img src="https://github.com/KM-drago/KM-drago/assets/62215420/a96a1fcb-afaf-44b7-8cc2-d7856f766d05" alt="python" width="40" height="40"/>
     <!-- PHP -->
     <img src="https://github.com/KM-drago/KM-drago/assets/62215420/56f473f1-9bf1-4cf5-b8d6-060cd5448fbd" alt="php" width="40" height="40"/>
+    <!--Java -->
+    <img src="https://github.com/KM-drago/KM-drago/assets/62215420/c887da41-50b1-472e-b97a-efe72cc7a7af" alt="java" width="40" height="40"/>
     <!-- C -->
     <img src="https://github.com/KM-drago/KM-drago/assets/62215420/19c20510-c8ca-4926-9988-e3e413972188" alt="c" width="40" height="40"/>
     <!-- C++ -->
@@ -33,7 +35,7 @@
 
 
 <hr>
-<h4 align="left">Frameworks:</h4>
+<h4 align="left">Frameworks and Libraries:</h4>
 <p align="left">
      <!-- NodeJS -->
     <img src="https://github.com/KM-drago/KM-drago/assets/62215420/65deec74-340a-438a-80b1-92518b127ac0" alt="node" width="40" height="40"/>
