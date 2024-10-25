@@ -1,6 +1,6 @@
 ## Hi There! I'm Kasun. 👋
 
-### Me in a few sentences, 
+Me in a few sentences, 
 
 - Computer Science graduate at the University of Colombo School of Computing.
 - Machine learning enthusiast.
@@ -43,6 +43,10 @@
     <img src="https://github.com/KM-drago/KM-drago/assets/62215420/7a4165eb-160f-4dac-bf78-c4874a1fdaae" alt="nestjs" width="40" height="40"/>
     <!-- ReactJS -->
     <img src="https://github.com/KM-drago/KM-drago/assets/62215420/0c9cbcb4-7c22-48e7-a4eb-4cb31d92c298" alt="react" width="40" height="40"/>
+    <!-- NextJS -->
+    <img src="https://github.com/user-attachments/assets/cbe9b43f-7f09-4a13-9f32-019fa3d91eaf" alt="nextjs" width="40" height="40"/>
+    <!-- tRPC -->
+    <img src="https://github.com/user-attachments/assets/2857cfde-5166-4646-97d7-49cc6e57661e" alt="tRPC" width="40" height="40"/>
 </p>
 
 
@@ -57,7 +61,6 @@
     <img src="https://github.com/KM-drago/KM-drago/assets/62215420/e2072b4e-e263-47a2-b7a2-dd29ce7c0830" alt="prismaorm" width="40" height="40"/>
 </p>
 
-
 <hr>
 <h4 align="left">Platforms and Tools:</h4>
 <p align="left">
@@ -67,6 +70,8 @@
     <img src="https://github.com/KM-drago/KM-drago/assets/62215420/fe2e63a1-e76b-4609-a587-9b76858a021c" alt="git" width="40" height="40"/>
     <!-- Docker -->
     <img src="https://github.com/KM-drago/KM-drago/assets/62215420/a2b7f374-a17f-427e-8a87-429cf5c7020b" alt="docker" width="40" height="40"/>
+    <!-- Clerk -->
+    <img src="https://github.com/user-attachments/assets/ed0433aa-8af9-4177-b8ba-897081768472" alt="clerk" width="40" height="40"/>
     <!-- AWS -->
     <img src="https://github.com/KM-drago/KM-drago/assets/62215420/faa43a46-9791-4a6b-89c8-a2a79e16f630" alt="aws" width="40"/>
     <!-- Unity -->
@@ -77,6 +82,16 @@
     <img src="https://github.com/KM-drago/KM-drago/assets/62215420/2fba40b3-1135-4936-9ef4-fe5d37be634a" alt="figma" width="40" height="40"/>
 </p>
 
+<hr>
+<h4 align="left">Machine Learning Tools:</h4>
+<p align="left">
+    <!-- TensorFlow -->
+    <img align="center" src="https://github.com/user-attachments/assets/017263bc-b99a-48da-9431-7064c3a2fcd9" alt="TensorFlow" height="30" />
+    <!-- Pandas   -->
+    <img align="center" src="https://github.com/user-attachments/assets/af7eb39c-0650-450b-9759-74d8c663a0ae" alt="Pandas" height="30" />
+    <!-- SciKitLearn   -->
+    <img align="center" src="https://github.com/user-attachments/assets/9441ed66-c5e8-481c-81a6-6b0246ece83a" alt="ScikitLearn" height="30"/>
+</p>
 
 <hr>
 <h4 align="left">Get in Touch:</h4>
