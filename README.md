@@ -2,7 +2,7 @@
 
 Me in a few sentences, 
 
-- Computer Science graduate at the University of Colombo School of Computing.
+- Experienced software engineer.
 - Machine learning enthusiast.
 - I like gaming and game development.
 
@@ -15,22 +15,16 @@ Me in a few sentences,
     <img src="https://github.com/KM-drago/KM-drago/assets/62215420/5bc0bcc3-443f-4247-8d18-6e3473ce9db1" alt="js" width="40" height="40"/>
     <!-- TypeScript -->
     <img src="https://github.com/KM-drago/KM-drago/assets/62215420/cb747457-c759-47fe-a16e-9a053aef57fa" alt="typescript" width="40" height="40"/>
+    <!--Java -->
+    <img src="https://github.com/KM-drago/KM-drago/assets/62215420/c887da41-50b1-472e-b97a-efe72cc7a7af" alt="java" width="40" height="40"/>
     <!-- Python -->
     <img src="https://github.com/KM-drago/KM-drago/assets/62215420/a96a1fcb-afaf-44b7-8cc2-d7856f766d05" alt="python" width="40" height="40"/>
     <!-- PHP -->
     <img src="https://github.com/KM-drago/KM-drago/assets/62215420/56f473f1-9bf1-4cf5-b8d6-060cd5448fbd" alt="php" width="40" height="40"/>
-    <!--Java -->
-    <img src="https://github.com/KM-drago/KM-drago/assets/62215420/c887da41-50b1-472e-b97a-efe72cc7a7af" alt="java" width="40" height="40"/>
     <!-- C -->
     <img src="https://github.com/KM-drago/KM-drago/assets/62215420/19c20510-c8ca-4926-9988-e3e413972188" alt="c" width="40" height="40"/>
     <!-- C++ -->
     <img src="https://github.com/KM-drago/KM-drago/assets/62215420/26d16d3d-d942-4950-9dab-57c57f9da7d5" alt="cpp" width="40" height="40"/>
-    <!-- C# -->
-    <img src="https://github.com/KM-drago/KM-drago/assets/62215420/ba438df3-f5b7-4f73-a8ca-5777bf2142f6" alt="c#" width="40" height="40"/>
-    <!-- HTML -->
-    <img src="https://github.com/KM-drago/KM-drago/assets/62215420/3ba045a9-99cc-43ea-916d-035804181b3d" alt="HTML" width="40" height="40"/>
-    <!-- CSS -->
-    <img src="https://github.com/KM-drago/KM-drago/assets/62215420/c2ed28a8-2f1c-4fdf-9e19-5f419a38af05" alt="css" width="40" height="40"/>
 </p>
 
 
@@ -39,6 +33,8 @@ Me in a few sentences,
 <p align="left">
      <!-- NodeJS -->
     <img src="https://github.com/KM-drago/KM-drago/assets/62215420/65deec74-340a-438a-80b1-92518b127ac0" alt="node" width="40" height="40"/>
+    <!-- SpringBoot -->
+    <img alt="spring-boot-icon" src="https://github.com/user-attachments/assets/cbcaa803-a18b-4e71-b59f-172af76d277d" width="40" height="40"/>
      <!-- NestJS -->
     <img src="https://github.com/KM-drago/KM-drago/assets/62215420/7a4165eb-160f-4dac-bf78-c4874a1fdaae" alt="nestjs" width="40" height="40"/>
     <!-- ReactJS -->
